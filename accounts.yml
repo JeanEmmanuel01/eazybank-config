@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+accounts:
+  message: "Welcome to EazyBank"
+  contactDetails:
+    name: "John Doe"
+    email: "John@eazybank.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 555-1240

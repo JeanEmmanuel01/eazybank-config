@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to EazyBank CARD MS related to PROD Environment"
+  contactDetails:
+    name: "Miki Product Owner"
+    email: "miki@eazybank.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 555-1240
