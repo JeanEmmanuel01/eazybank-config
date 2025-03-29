@@ -3,8 +3,8 @@ build:
 accounts:
   message: "Welcome to EazyBank related to PROD Environment"
   contactDetails:
-    name: "Miki Product Owner"
-    email: "miki@eazybank.com"
+    name: "{cypher}b18f27269ad3ea5267635ce2a203a212b2bb6b44b5501cd7be7311c3b62c217a11607166090ada7a6e8ab4fba003cd6f"
+    email: "{cypher}a8926ea1f9d644c4e186d3dcd88a834c13dd993118c54c707df2289943de0721e6d68ec91340a463bc7583e6e11bb644"
   onCallSupport:
     - (555) 555-1234
     - (555) 555-1240
