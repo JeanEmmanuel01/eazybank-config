@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 accounts:
-  message: "Welcome to EazyBank"
+  message: "Welcome to account microservices in EazyBank"
   contactDetails:
     name: "John Doe"
     email: "John@eazybank.com"
